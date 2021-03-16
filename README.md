@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mmmbacon
-- 👀 I’m interested in becoming a web developer
+- 👀 I’m interested in web development and using Node
 - 🌱 I’m currently learning with Lighthouse Labs
 - 💞️ I’m looking to collaborate on fun and interesting coding projects
 
