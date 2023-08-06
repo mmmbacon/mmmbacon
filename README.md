@@ -1,5 +1,7 @@
-Hey, I'm Brandon.  
+Hi, My name is: Brandon.  
 
-Typescript, Webpack, Svelte, Beer
+I like: Typescript, Webpack, Svelte, Beer
 
 [Portfolio](https://bm-portfolio.vercel.app/)
+
+👽
