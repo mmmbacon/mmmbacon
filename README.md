@@ -1,6 +1,6 @@
 Hi, My name is: Brandon.  
 
-I like: Typescript, Webpack, Svelte, Beer
+I like to code.
 
 [Portfolio](https://bm-portfolio.vercel.app/)
 
