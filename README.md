@@ -1,7 +1,7 @@
-Hi, My name is: Brandon.  
+Hello, My name is Brandon.
 
-I like to code.
+I like to code. Mostly full stack web stuff: Vue, TypeScript, Node, and the occasional side project.
 
-[Portfolio](https://bm-portfolio.vercel.app/)
+**Portfolio:** [brandonmacdonald.dev](https://brandonmacdonald.dev/)
 
 👽
