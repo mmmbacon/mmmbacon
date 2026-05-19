@@ -4,4 +4,4 @@ I like to code. Mostly full stack web stuff: Vue, TypeScript, Node, and the occa
 
 **Portfolio:** [brandonmacdonald.dev](https://brandonmacdonald.dev/)
 
-👽
+👽✌️
