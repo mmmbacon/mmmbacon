@@ -1,6 +1,6 @@
 Hello, My name is Brandon.
 
-I like to code. Mostly full stack web stuff: Vue, TypeScript, Node, and the occasional side project.
+I'm a Technical Lead and full-stack developer based in Calgary. I build production systems on Node.js, NestJS, TypeScript, and Vue 3. Spent 15 years before that as a structural designer on oil and gas capital projects.
 
 **Portfolio:** [brandonmacdonald.dev](https://brandonmacdonald.dev/)
 
